@@ -1,4 +1,4 @@
-# This is an group assignment from the course KKEE2103
+# This is a group assignment from the course KKEE2103
 
 I am from faculty of engineering from Universiti Kebangsaan Malaysia, UKM. In this course we are task to an application pattern classification of machine learning to solve a problem. 
 
