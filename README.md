@@ -14,7 +14,7 @@ Features
 - Scalable Model Architectures: Offers three selectable CNN configurations (Simple, Moderate, Complex).
 - Performance Metrics: Generates a classification report and visualizes accuracy/loss trends.
 
-library use are:
+library used are:
 ```bash
 pip install numpy matplotlib tensorflow
 ```
